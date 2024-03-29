@@ -1,0 +1,3 @@
+/Users/hezhohao/Programming/GitRepo/RayTrac1ng/build/CMakeFiles/RayTrac1ng.dir
+/Users/hezhohao/Programming/GitRepo/RayTrac1ng/build/CMakeFiles/edit_cache.dir
+/Users/hezhohao/Programming/GitRepo/RayTrac1ng/build/CMakeFiles/rebuild_cache.dir
